@@ -1,0 +1,14 @@
+\documentclass{article}
+\title{Title of Document}
+\author{Name of Author}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\section{Section 1}
+Test $x^3+3x^2+6x$.
+\subsection{CATS}
+Testing testing 123.
+
+\end{document}
